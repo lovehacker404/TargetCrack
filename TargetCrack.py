@@ -78,7 +78,7 @@ def welcome():
         ┃     ○     ┃             ┃    ○     ┃			
         ╰━━━━━━━╯             ╰━━━━━━━╯			
 """		
-     "" total = open(passwordlist,r")"			
+        total = open(passwordlist,r")"			
 	total = total.readlines()		
 	print wel 		
 	print " [*] Account to crack : {}".format(email)		
