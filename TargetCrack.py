@@ -77,7 +77,7 @@ def welcome():
         ┃███████┃             ┃███████┃			
         ┃     ○     ┃             ┃    ○     ┃			
         ╰━━━━━━━╯             ╰━━━━━━━╯			
-""			
+"""		
      "" total = open(passwordlist,r")"			
 	total = total.readlines()		
 	print wel 		
